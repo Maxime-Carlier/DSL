@@ -1,0 +1,2 @@
+actuator "led1" onPin 7
+export "Test"
