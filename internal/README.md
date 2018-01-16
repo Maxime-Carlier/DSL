@@ -15,5 +15,5 @@ mvn clean compile assembly:single
 ### Running the project
 To run the project, execute :
 ```bash
-java -jar target/ardroovy-jar-with-dependencies.jar
+java -jar target/ardroovy-jar-with-dependencies.jar <Path to a script file>
 ```
